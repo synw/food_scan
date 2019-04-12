@@ -8,6 +8,8 @@ An [Android executable](https://github.com/synw/food_scan/releases/download/0.1.
 
 Uses the [Openfood facts api](http://openfoodfacts.com/)
 
+Note: the app uses the front camera by default to scan products as it has a better resolution for close objects on some devices but it is possible to change this at app runtime by clicking the camera button
+
 ## Flutter libraries used
 
 - [Flutter mobile vision](https://github.com/edufolly/flutter_mobile_vision): to scan barcodes
