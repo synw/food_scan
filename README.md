@@ -4,6 +4,8 @@ Scan a food product barcode and get detailled info about the product:
 
 ![Screenshot](screenshot.png)
 
+An [Android executable](https://github.com/synw/food_scan/releases/download/0.1.0/food_scan.apk) is available to install the app. Or compile it with Flutter.
+
 Uses the [Openfood facts api](http://openfoodfacts.com/)
 
 ## Flutter libraries used
